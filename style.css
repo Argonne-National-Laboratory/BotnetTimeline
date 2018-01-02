@@ -74,3 +74,7 @@ footer {
   padding-top: 10px;
   padding-bottom: 10px;
 }
+
+.boxBody {
+  background-color: rgb(154, 3, 30);
+}
