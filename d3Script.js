@@ -1,6 +1,6 @@
 /********************** Sizes **********************/
 var outerWidth = 1260;
-var outerHeight = 18000;
+var outerHeight = 25000;
 var margin = {
   left: 300,
   top: 300,
